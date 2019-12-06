@@ -1,0 +1,11 @@
+dependencies:
+# Jupyter
+- jupyterlab
+- nodejs
+- nbconvert
+- widgetsnbextension
+# Python Kernel
+- pandas
+- numpy
+- sklearn
+- seaborn
