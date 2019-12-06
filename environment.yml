@@ -1,0 +1,18 @@
+dependencies:
+# Jupyter
+- jupyterlab
+- nodejs
+- nbconvert
+- widgetsnbextension
+# Python Kernel
+- os
+- pandas
+- numpy
+- sklearn
+- IPython.core.display
+- warnings
+- sklearn.ensemble
+- sklearn.neighbors
+- sklearn.metrics
+- maatplotlib.pyplot
+- seaborn
